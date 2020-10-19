@@ -9,7 +9,8 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
-    "react-scrollama": "https://github.com/maerzhase/react-scrollama.git"
+    "react-scrollama": "^2.2.12",
+    "react-spring": "^8.0.27"
   },
   "scripts": {
     "start": "react-scripts start",

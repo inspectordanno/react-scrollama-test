@@ -1,0 +1,21 @@
+.app {
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+}
+
+.imgContainer {
+  position: sticky;
+  top: 20px;
+  margin-bottom: 500px;
+}
+
+.imgContainer img {
+  position: absolute;
+}
+
+.stepContainer {
+  position: relative;
+}
